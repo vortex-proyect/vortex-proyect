@@ -12,7 +12,7 @@ Estudiante de Ingeniería Civil Informática con enfoque en el desarrollo de sis
 - **[ML-UChile-Coursework](https://github.com/vortex-proyect/ML-Python-UChile):** Implementaciones de modelos de Machine Learning y análisis de desempeño mediante métricas de precisión, recall y F1-score, desarrollado durante la certificación de la Universidad de Chile.
 
 ### Ingeniería de Software
-- **[Sovereign Privacy Browser](https://github.com/vortex-proyect/GekVortex):** Implementación de un navegador basado en GeckoView enfocado en privacidad, utilizando cifrado AES-256-GCM y túneles TLS 1.3.
+- **[GekVortex](https://github.com/vortex-proyect/GekVortex):** Desarrollo de un navegador basado en el motor Gecko, integrando estándares de seguridad y privacidad avanzados similares a Brave.
 - **[VortexStudios](https://github.com/vortex-proyect/VortexStudios):** Desarrollo de sistemas web modernos y automatizaciones utilizando Next.js, TypeScript y despliegue en Edge Network.
 - **[la-partisana](https://github.com/vortex-proyect/la-partisana):** Diseño e implementación de interfaces de usuario optimizadas para performance y experiencia de navegación.
 
@@ -21,7 +21,7 @@ Estudiante de Ingeniería Civil Informática con enfoque en el desarrollo de sis
 ## Formación y Certificaciones
 - **Ingeniería Civil Informática** - Universidad San Sebastián (En curso)
 - **Machine Learning with Python** - Universidad de Chile ([Certificado](https://github.com/vortex-proyect/ML-Python-UChile/blob/main/Certificado%20Machine%20Learning%20with%20Python%20Essentials_UdeChile.pdf))
-- **UX Design Essentials** - Universidad de Chile ([Certificado](https://github.com/vortex-proyect/UX-Design-Essentials/blob/main/Certificado%20Dise\303\261o%20UX%20Essentials_UdeChile.pdf))
+- **UX Design Essentials** - Universidad de Chile ([Certificado](https://github.com/vortex-proyect/UX-Design-Essentials/blob/main/Certificado%20Dise%C3%B1o%20UX%20Essentials_UdeChile.pdf))
 
 ---
 
