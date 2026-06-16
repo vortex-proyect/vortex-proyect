@@ -20,7 +20,8 @@ Estudiante de Ingeniería Civil Informática con enfoque en el desarrollo de sis
 
 ## Formación y Certificaciones
 - **Ingeniería Civil Informática** - Universidad San Sebastián (En curso)
-- **Machine Learning with Python** - Universidad de Chile (Certificado)
+- **Machine Learning with Python** - Universidad de Chile ([Certificado](https://github.com/vortex-proyect/ML-Python-UChile/blob/main/Certificado%20Machine%20Learning%20with%20Python%20Essentials_UdeChile.pdf))
+- **UX Design Essentials** - Universidad de Chile ([Certificado](https://github.com/vortex-proyect/UX-Design-Essentials/blob/main/Certificado%20Dise\303\261o%20UX%20Essentials_UdeChile.pdf))
 
 ---
 
