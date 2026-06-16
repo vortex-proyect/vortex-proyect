@@ -1,18 +1,20 @@
 # vortex-proyect
-### Estudiante de Ingeniería Civil Informática en la Universidad San Sebastián | AI Research and Development
+### Estudiante de Ingeniería Civil Informática en la Universidad San Sebastián | AI & Systems Engineering
 
-Soy un estudiante de Ingeniería Civil Informática con un fuerte interés en la intersección entre la arquitectura de software y el procesamiento de lenguaje natural. Me enfoco en la investigación de Modelos de Lenguaje (LLMs) y la creación de sistemas para la interacción eficiente con la información.
+Estudiante de Ingeniería Civil Informática con enfoque en el desarrollo de sistemas y la implementación de modelos de inteligencia artificial. Mi trabajo se centra en la intersección entre la arquitectura de software y el procesamiento de lenguaje natural, con especial interés en la eficiencia de los modelos de lenguaje y la gestión de datos.
 
 ---
 
-## Portafolio de Proyectos
+## Proyectos Seleccionados
 
 ### Inteligencia Artificial y ML
-- **[OpenClaw](https://github.com/vortex-proyect/OpenClaw):** Sistema de gestión de conocimiento asistido por IA. Implementación de arquitectura para la integración de LLMs con bases de conocimiento locales, optimizando la recuperación de información estructurada.
-- **[ML-UChile-Coursework](https://github.com/vortex-proyect/ML-Python-UChile):** Implementaciones y análisis de modelos de Machine Learning desarrollados durante la certificación de la Universidad de Chile. Enfoque en la validación de modelos mediante métricas de precisión, recall y F1-score.
+- **[OpenClaw](https://github.com/vortex-proyect/OpenClaw):** Sistema de gestión de conocimiento asistido por IA. Implementación de una arquitectura para la integración de LLMs con bases de datos locales y optimización de la recuperación de información.
+- **[ML-UChile-Coursework](https://github.com/vortex-proyect/ML-Python-UChile):** Implementaciones de modelos de Machine Learning y análisis de desempeño mediante métricas de precisión, recall y F1-score, desarrollado durante la certificación de la Universidad de Chile.
 
 ### Ingeniería de Software
-- **[la-partisana](https://github.com/vortex-proyect/la-partisana):** [Descripción corta de la funcionalidad principal del proyecto].
+- **[Sovereign Privacy Browser](https://github.com/vortex-proyect/GekVortex):** Implementación de un navegador basado en GeckoView enfocado en privacidad, utilizando cifrado AES-256-GCM y túneles TLS 1.3.
+- **[VortexStudios](https://github.com/vortex-proyect/VortexStudios):** Desarrollo de sistemas web modernos y automatizaciones utilizando Next.js, TypeScript y despliegue en Edge Network.
+- **[la-partisana](https://github.com/vortex-proyect/la-partisana):** Diseño e implementación de interfaces de usuario optimizadas para performance y experiencia de navegación.
 
 ---
 
@@ -22,11 +24,11 @@ Soy un estudiante de Ingeniería Civil Informática con un fuerte interés en la
 
 ---
 
-## Ruta de Aprendizaje Actual (Focus: LatamGPT)
-Para contribuir al desarrollo de modelos fundacionales para Latinoamérica, estoy profundizando en:
-- **HuggingFace Ecosystem:** Estudio de la arquitectura de Transformers y manipulación de modelos.
-- **Técnicas de Adaptación:** Investigación sobre SFT (Supervised Fine-Tuning) y CPT (Continual Pre-training).
-- **Curación de Datos:** Métodos de limpieza y filtrado de datasets para variantes del idioma español.
+## Áreas de Interés Técnico
+Actualmente profundizando en los siguientes dominios:
+- **HuggingFace Ecosystem:** Arquitectura de Transformers y manipulación de modelos.
+- **Model Adaptation:** Técnicas de SFT (Supervised Fine-Tuning) y CPT (Continual Pre-training).
+- **Data Curation:** Métodos de limpieza y filtrado de datasets para el idioma español.
 
 ---
 
