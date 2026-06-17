@@ -32,6 +32,19 @@ Academic implementations of machine learning through empirical analysis.
 
 ---
 
+## 🏆 Achievements & Certifications
+
+<div align="center">
+  <a href="https://cajalosandes.virtual-labx.cl/certificates/be1591d586c5432aad505215af620840">
+    <img src="https://img.shields.io/badge/Virtual--LabX-Certificado%201-blue?style=for-the-badge&logo=certificate" alt="Certificado 1"/>
+  </a>
+  <a href="https://cajalosandes.virtual-labx.cl/certificates/069fcdea506646c781847f45754c615c">
+    <img src="https://img.shields.io/badge/Virtual--LabX-Certificado%202-blue?style=for-the-badge&logo=certificate" alt="Certificado 2"/>
+  </a>
+</div>
+
+---
+
 ## 🔗 Connect with me
 - 🌐 [Portfolio](https://vortex-portfolio.studi-os.workers.dev/)
 - 📧 vortex.proyect.g@gmail.com
