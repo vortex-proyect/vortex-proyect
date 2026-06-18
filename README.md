@@ -36,10 +36,10 @@ Academic implementations of machine learning through empirical analysis.
 
 <div align="center">
   <a href="https://github.com/vortex-proyect/vortex-portfolio/blob/main/ML-Python-UChile/Certificado%20Machine%20Learning%20with%20Python%20Essentials_UdeChile.pdf">
-    <img src="https://raw.githubusercontent.com/vortex-proyect/vortex-proyect/add-certificate-badges/certificates/ml-python-essentials.svg" alt="Machine Learning with Python Essentials" width="120" height="120" style="margin: 0 15px;"/>
+    <img src="https://cajalosandes.virtual-labx.cl/static/images/certificates/honor.24fb9e64fdae.png" alt="Machine Learning with Python Essentials" width="100" height="100" style="margin: 0 15px;"/>
   </a>
   <a href="https://github.com/vortex-proyect/vortex-portfolio/blob/main/UX-Design-Essentials/Certificado%20Dise%C3%B1o%20UX%20Essentials_UdeChile.pdf">
-    <img src="https://raw.githubusercontent.com/vortex-proyect/vortex-proyect/add-certificate-badges/certificates/ux-design-essentials.svg" alt="Diseño UX Essentials" width="120" height="120" style="margin: 0 15px;"/>
+    <img src="https://cajalosandes.virtual-labx.cl/static/images/certificates/honor.24fb9e64fdae.png" alt="Diseño UX Essentials" width="100" height="100" style="margin: 0 15px;"/>
   </a>
 </div>
 
