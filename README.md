@@ -34,13 +34,24 @@ Academic implementations of machine learning through empirical analysis.
 
 ## 🏆 Achievements
 
-<div align="center">
-  <a href="https://github.com/vortex-proyect/vortex-portfolio/blob/main/ML-Python-UChile/Certificado%20Machine%20Learning%20with%20Python%20Essentials_UdeChile.pdf">
-    <img src="https://cajalosandes.virtual-labx.cl/static/images/certificates/honor.24fb9e64fdae.png" alt="Machine Learning with Python Essentials" width="100" height="100" style="margin: 0 15px;"/>
-  </a>
-  <a href="https://github.com/vortex-proyect/vortex-portfolio/blob/main/UX-Design-Essentials/Certificado%20Dise%C3%B1o%20UX%20Essentials_UdeChile.pdf">
-    <img src="https://cajalosandes.virtual-labx.cl/static/images/certificates/honor.24fb9e64fdae.png" alt="Diseño UX Essentials" width="100" height="100" style="margin: 0 15px;"/>
-  </a>
+<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+  <div style="position: relative; display: inline-block;">
+    <a href="https://github.com/vortex-proyect/vortex-portfolio/blob/main/ML-Python-UChile/Certificado%20Machine%20Learning%20with%20Python%20Essentials_UdeChile.pdf">
+      <img src="https://cajalosandes.virtual-labx.cl/static/images/certificates/honor.24fb9e64fdae.png" alt="Machine Learning with Python Essentials" width="100" height="100" style="cursor: pointer; transition: transform 0.3s ease;"/>
+    </a>
+    <div style="position: absolute; bottom: 110px; left: 50%; transform: translateX(-50%); background: rgba(0, 0, 0, 0.9); color: white; padding: 8px 12px; border-radius: 6px; font-size: 12px; white-space: nowrap; opacity: 0; pointer-events: none; transition: opacity 0.3s ease; z-index: 10;">
+      Machine Learning with Python Essentials
+    </div>
+  </div>
+
+  <div style="position: relative; display: inline-block;">
+    <a href="https://github.com/vortex-proyect/vortex-portfolio/blob/main/UX-Design-Essentials/Certificado%20Dise%C3%B1o%20UX%20Essentials_UdeChile.pdf">
+      <img src="https://cajalosandes.virtual-labx.cl/static/images/certificates/honor.24fb9e64fdae.png" alt="Diseño UX Essentials" width="100" height="100" style="cursor: pointer; transition: transform 0.3s ease;"/>
+    </a>
+    <div style="position: absolute; bottom: 110px; left: 50%; transform: translateX(-50%); background: rgba(0, 0, 0, 0.9); color: white; padding: 8px 12px; border-radius: 6px; font-size: 12px; white-space: nowrap; opacity: 0; pointer-events: none; transition: opacity 0.3s ease; z-index: 10;">
+      Diseño UX Essentials
+    </div>
+  </div>
 </div>
 
 ---
